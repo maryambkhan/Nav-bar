@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Karla:wght@200;400;500&family=Lato:wght@700&family=Neonderthaw&family=Rubik+Beastly&family=The+Nautigal&display=swap');
+body{
+  background-color:pink;
+}
+.special{
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.7em;
+ 
+}
+footer{
+  text-align:center;
+}
+nav{
+  
+  display:flex;
+  font-size: 1.4em;
+  
+}
+.nav-link{
+  display:flex;
+  justify-content:space-around;
+  width:200%;
+  justify-content:space-evenly;
+   gsp:1rem;
+  
+}
+nav:hover{
+  color:gray;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+img{
+  align:center;
+  width:50%;
+  height:50%;
+  padding-bottom:10px;
+}
